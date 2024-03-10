@@ -24,7 +24,7 @@ Classification
 
     or
 
-    Put all the files in a same folder from brightspace
+    Put A3_TestData.tsv, A3_TrainData.tsv and main.py files in a same folder from brightspace
     Open folder on terminal
     ```bash
     code .
